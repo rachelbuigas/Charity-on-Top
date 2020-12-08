@@ -5,3 +5,4 @@
     link.href = 'https://www.charityontop.org/assets/uploads/favicon.ico?v=2';
     document.getElementsByTagName('head')[0].appendChild(link);
 })();
+
